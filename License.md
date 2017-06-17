@@ -630,7 +630,7 @@ state the exclusion of warranty; and each file should have at least
 the "copyright" line and a pointer to where the full notice is found.
 
     Demo MVVM (WPf)
-    Copyright (C) 2017 Ngô Quôc Trung
+    Copyright (C) 2017 Ngô Quốc Trung
 
     This program is free software: you can redistribute it and/or modify
     it under the terms of the GNU Affero General Public License as published
