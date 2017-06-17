@@ -1,0 +1,17 @@
+c:\users\tran\documents\visual studio 2017\Projects\Wpf_Demo_MVVM\ViewModel\bin\Debug\ViewModel.exe.config
+c:\users\tran\documents\visual studio 2017\Projects\Wpf_Demo_MVVM\ViewModel\bin\Debug\ViewModel.exe
+c:\users\tran\documents\visual studio 2017\Projects\Wpf_Demo_MVVM\ViewModel\bin\Debug\ViewModel.pdb
+c:\users\tran\documents\visual studio 2017\Projects\Wpf_Demo_MVVM\ViewModel\bin\Debug\Model.exe
+c:\users\tran\documents\visual studio 2017\Projects\Wpf_Demo_MVVM\ViewModel\bin\Debug\Model.pdb
+c:\users\tran\documents\visual studio 2017\Projects\Wpf_Demo_MVVM\ViewModel\bin\Debug\Model.exe.config
+c:\users\tran\documents\visual studio 2017\Projects\Wpf_Demo_MVVM\ViewModel\obj\Debug\ViewModel.csprojResolveAssemblyReference.cache
+c:\users\tran\documents\visual studio 2017\Projects\Wpf_Demo_MVVM\ViewModel\obj\Debug\MainWindow.g.cs
+c:\users\tran\documents\visual studio 2017\Projects\Wpf_Demo_MVVM\ViewModel\obj\Debug\App.g.cs
+c:\users\tran\documents\visual studio 2017\Projects\Wpf_Demo_MVVM\ViewModel\obj\Debug\ViewModel_MarkupCompile.cache
+c:\users\tran\documents\visual studio 2017\Projects\Wpf_Demo_MVVM\ViewModel\obj\Debug\ViewModel_MarkupCompile.lref
+c:\users\tran\documents\visual studio 2017\Projects\Wpf_Demo_MVVM\ViewModel\obj\Debug\MainWindow.baml
+c:\users\tran\documents\visual studio 2017\Projects\Wpf_Demo_MVVM\ViewModel\obj\Debug\ViewModel.g.resources
+c:\users\tran\documents\visual studio 2017\Projects\Wpf_Demo_MVVM\ViewModel\obj\Debug\ViewModel.Properties.Resources.resources
+c:\users\tran\documents\visual studio 2017\Projects\Wpf_Demo_MVVM\ViewModel\obj\Debug\ViewModel.csproj.GenerateResource.Cache
+c:\users\tran\documents\visual studio 2017\Projects\Wpf_Demo_MVVM\ViewModel\obj\Debug\ViewModel.exe
+c:\users\tran\documents\visual studio 2017\Projects\Wpf_Demo_MVVM\ViewModel\obj\Debug\ViewModel.pdb
